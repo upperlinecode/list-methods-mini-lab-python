@@ -70,4 +70,4 @@ cool_numbers = cool_numbers.sort() # In other words, sort the numbers in order, 
 
 ```
 
-As you go through this lab, you'll want to refer back to the [python documentation on lists](https://docs.python.org/3/tutorial/datastructures.html). The explanations are pretty good, the sample code snippets are great. This is where you can learn about other methods like ".sort()" that we used above.
+As you go through this lab, you'll want to refer back to the [python documentation on lists](https://www.w3schools.com/python/python_lists.asp). This is where you can learn about other methods like ".sort()" that we used above.
