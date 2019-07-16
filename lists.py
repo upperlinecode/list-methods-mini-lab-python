@@ -2,9 +2,9 @@
 # This list of anagrams are all based on the word "Stop"
 anagrams = ["plots", "post", "stop", "puts", "tops"]
 
-# Run this program after you try each step and see if it worked. 
-# At the very bottom of this file is a line of code that prints out the list after your code as run.
-# You're welcome to print additional debugging statements if you need. 
+# Run this program after you try each step and see if it worked.
+# At the very bottom of this file is a line of code that prints out the list after your code is run.
+# You're welcome to print additional debugging statements if you need.
 
 # 1. Print out the third word in the list using bracket notation.
 
