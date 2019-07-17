@@ -39,13 +39,16 @@ anagrams = ["plots", "post", "stop", "puts", "tops"]
 
 
 
+# This code prints the list after you've manipulated it above.
+print(anagrams)
+
 # LEVEL 2: At this point, the tasks will get more challenging, because you'll work with datasets too large to handle by just looking at it and reading it.
 # The lists used in the second half of this lab will be stored in a neighboring file called "other_lists.py".
 # If you'd like to look at that file, you certainly may, but do your work here.
 # This line of code connects the data.
 import other_lists
 
-# Pro-tip: to make this easier, scroll down and comment out the line "print(anagrams)" so that you aren't printing extra information.
+# Pro-tip: to make this easier, comment out the line "print(anagrams)" above so that you aren't printing extra information.
 #
 # 6. The first list is called "fortunes" and contains fortune-cookie style fortunes. Print out a random fortune from the list.
 #     Remeber to access the list with "other_lists.fortunes" because is is in a different file.
@@ -73,5 +76,3 @@ import random     # You're going to need a method from the random library.
 
 
 
-# This code prints the list after you've manipulated it above.
-print(anagrams)
