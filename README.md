@@ -1,5 +1,9 @@
 # A List of Anagrams
 
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/
+list-methods-mini-lab-python)](https://repl.it/github/upperlinecode/
+list-methods-mini-lab-python)
+
 ### Introduction
 
 Lists are crazy useful. Whether you're planning a party and creating a guest list, going grocery shopping and creating a grocery list, or debating with your friends about the top 10 movies of all time, you likely already do a lot of your thinking in list form.
