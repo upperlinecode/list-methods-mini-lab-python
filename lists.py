@@ -37,8 +37,6 @@ anagrams = ["plots", "post", "stop", "puts", "tops"]
 
 
 
-
-
 # This code prints the list after you've manipulated it above.
 print(anagrams)
 
