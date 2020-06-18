@@ -48,29 +48,26 @@ import other_lists
 
 # Pro-tip: to make this easier, comment out the line "print(anagrams)" above so that you aren't printing extra information.
 #
-# 6. The first list is called "fortunes" and contains fortune-cookie style fortunes. Print out a random fortune from the list.
+#     The first list is called "fortunes" and contains fortune-cookie style fortunes.
 #     Remeber to access the list with "other_lists.fortunes" because is is in a different file.
-
-import random     # You're going to need a method from the random library.
-
-
-
-# 7. This list is huge, so it'd be helpful to know how many fortunes are listed. Find a way to print out the number of fortunes in the list.
+#
+#  6. Print out the 10th fourtune from the list.
 
 
 
+#  7. Print out fortunes 12, 13, and 14 from the list. There are several ways to do this, and any way is totally fine.
 
 
-# 8. Challenge: Out of all the fotunes that are there, it'd mess up the program if some were listed twice, but with a list that big, it could happen.
+
+import random     # You're going to need a method from the random library for this next part.
+# 8. Print out a random fortune from the list.
+
+
+# 9. This list is huge, so it'd be helpful to know how many fortunes are listed. Find a way to print out the number of fortunes in the list.
+
+
+
+
+
+# 10. Challenge: Out of all the fotunes that are there, it'd mess up the program if some were listed twice, but with a list that big, it could happen.
 # Find a way to check and see whether any of the fortunes are duplicates. If so, find a way to delete those duplicates.
-
-
-
-
-
-
-
-
-
-
-
