@@ -70,4 +70,5 @@ import random     # You're going to need a method from the random library for th
 
 
 # 10. Challenge: Out of all the fotunes that are there, it'd mess up the program if some were listed twice, but with a list that big, it could happen.
-# Find a way to check and see whether any of the fortunes are duplicates. If so, find a way to delete those duplicates.
+# Find a way to check and see whether any of the fortunes are duplicates - make a separate list of those fortunes. 
+# Once you have the list of duplicated fortunes, find a way to delete those duplicates.
