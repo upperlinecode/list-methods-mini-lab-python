@@ -37,7 +37,7 @@ cool_numbers = [3, 5, 2, 1, 4]
 
 ```
 
-If the instructions asked you to put these numbers in order, you might be tempted to simply go back up and simply rewrite the array:
+If the instructions asked you to put these numbers in order, you might be tempted to simply go back up and simply rewrite the list:
 
 ```Python
 
