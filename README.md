@@ -1,8 +1,6 @@
 # A List of Anagrams
 
-![Run on Repl.it](https://repl.it/badge/github/upperlinecode/
-list-methods-mini-lab-python)](https://repl.it/github/upperlinecode/
-list-methods-mini-lab-python)
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/list-methods-mini-lab-python)](https://repl.it/github/upperlinecode/list-methods-mini-lab-python)
 
 ### Introduction
 
