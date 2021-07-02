@@ -6,9 +6,9 @@
 
 Lists are crazy useful. Whether you're planning a party and creating a guest list, going grocery shopping and creating a grocery list, or debating with your friends about the top 10 movies of all time, you likely already do a lot of your thinking in list form.
 
-As a programmer, lists become powerful tools. For example, if you make a guest list on paper and you want to know how many guests you have, you'd need to go back and number all the guests - for a big party like a wedding, that could take a long time. As a programmer, you can use built in list methods to do things like that for you, and to do it in a LOT less time.
+As a programmer, lists become powerful tools. For example, if you make a guest list on paper and you want to know how many guests you have, you'd need to go back and number all the guests - for a big party like a wedding, that could take a long time. As a programmer, you can use built in list methods to do things like that for you, and to do it in a lot less time.
 
-Here are a few examples of built-in function Python can complete almost instantly:
+Here are a few examples of built-in functions Python can complete almost instantly:
 * Alphabetize a list.
 * Count the items in a list.
 * Access (read or write) a specific item in the list.
