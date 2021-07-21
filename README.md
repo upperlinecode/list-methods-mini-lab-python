@@ -68,7 +68,8 @@ Instead, you want to use built-in methods to do your work for you, and then resa
 ```Python
 
 cool_numbers = [3, 5, 2, 1, 4]
-cool_numbers = cool_numbers.sort() # In other words, sort the numbers in order, and then resave that information back in the same variable.
+cool_numbers.sort() # Sorts numbers in-place
+print(cool_numbers) # [1, 2, 3, 4, 5]
 
 ```
 
